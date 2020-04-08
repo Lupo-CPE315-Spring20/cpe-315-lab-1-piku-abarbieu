@@ -1,7 +1,11 @@
 # CPE 315 Lab 1 -- Piku
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+
+- Name: 
+  - Aidan Barbieux
+- Status
+  - WIP
+- 
+
 ## Things to include in your README
 
 * Your name. Indicate if you go by a nickname.
@@ -18,4 +22,6 @@ markdown syntax to format your README files in such a way that they look
 professional, and are easy to read. Use the 
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
+
+
 
