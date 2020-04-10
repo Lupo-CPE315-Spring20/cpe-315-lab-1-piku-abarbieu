@@ -1,7 +1,7 @@
 # CPE 315 Lab 1 -- Piku
 
 ## Basic Info
-1. Name: 
+1. Name:  
   Aidan Barbieux
 2. Status:  
   Finished :heavy_check_mark:  
