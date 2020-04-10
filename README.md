@@ -4,7 +4,7 @@
 1. Name: 
   Aidan Barbieux
 2. Status
-  Finished :heavy_check_mark:
+  Finished :heavy_check_mark:  
 ##Compile/Run
 1. Compile:
   make
