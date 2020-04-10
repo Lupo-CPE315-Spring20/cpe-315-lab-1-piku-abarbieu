@@ -3,7 +3,7 @@
 - Name: 
   - Aidan Barbieux
 - Status
-  - WIP
+  - Finished (Working on README)
 - 
 
 ## Things to include in your README
