@@ -1,10 +1,15 @@
 # CPE 315 Lab 1 -- Piku
 
-- Name: 
+##Basic Info
+1. Name: 
   - Aidan Barbieux
-- Status
+2. Status
   - Finished (Working on README)
-- 
+##Compile/Run
+1. Compile:
+  - make
+2. Run:
+  - ./piku
 
 ## Things to include in your README
 
